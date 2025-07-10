@@ -17,11 +17,11 @@ def kuai():
     print("")
     secim=input(" • Seçiminiz: ")
     baglantilar={
-        "1":"https://raw.githubusercontent.com/woldemot/Sex/refs/heads/main/ExxenChecker.py",
-        "2":"https://raw.githubusercontent.com/woldemot/Sex/refs/heads/main/TabiiChecker.py",
-        "3":"https://raw.githubusercontent.com/woldemot/Sex/refs/heads/main/SmsOnayChecker.py",
-        "4":"https://raw.githubusercontent.com/woldemot/Sex/refs/heads/main/SanalNoChecker.py",
-        "5":"https://raw.githubusercontent.com/woldemot/Sex/refs/heads/main/s2gepin.py",
+        "1":"https://raw.githubusercontent.com/sherybusiness/sex/refs/heads/main/ExxenChecker.py",
+        "2":"https://raw.githubusercontent.com/sherybusiness/sex/refs/heads/main/TabiiChecker.py",
+        "3":"https://raw.githubusercontent.com/sherybusiness/sex/refs/heads/main/SmsOnayChecker.py",
+        "4":"https://raw.githubusercontent.com/sherybusiness/sex/refs/heads/main/SanalNoChecker.py",
+        "5":"https://raw.githubusercontent.com/sherybusiness/sex/refs/heads/main/s2gepin.py",
     }
     os.system('clear')
     if secim in baglantilar:siyonzipython(baglantilar[secim])
