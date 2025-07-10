@@ -6,7 +6,7 @@ import os
 from cfonts import render
 
 print("\n\n")
-kopmk = render('en4rt', colors=['white', 'red'], align='center')
+kopmk = render('SHERY', colors=['white', 'red'], align='center')
 print(kopmk)
 print("━" * 55) 
 
@@ -16,7 +16,7 @@ EnartCombo = input(" - Combo gir: ")
 os.system('clear')
 
 print("\n\n")
-kopmk = render('en4rt', colors=['white', 'red'], align='center')
+kopmk = render('SHERY', colors=['white', 'red'], align='center')
 print(kopmk)
 print("━" * 55)
 
